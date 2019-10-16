@@ -4,6 +4,5 @@ def hello(array)
     binding.pry
     yield(array[i])
     i += 1
- 
   end
 end
