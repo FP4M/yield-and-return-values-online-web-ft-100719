@@ -1,4 +1,4 @@
-def hello()
+def hello("Tim", "Tom", "Jim")
   i = 0
   while i < array.length
     yield(array[i])
